@@ -12,3 +12,4 @@ node_modules
 !packages/**/lint-staged.config.js
 .vscode
 .npmrc
+/.idea
